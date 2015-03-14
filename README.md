@@ -1,4 +1,7 @@
 # show_parsing_tree
+
+该python程序可以画句法分析树。
+
 show a graph of a parsing tree(multi-branches tree)
 
 like a tree in CTB :
